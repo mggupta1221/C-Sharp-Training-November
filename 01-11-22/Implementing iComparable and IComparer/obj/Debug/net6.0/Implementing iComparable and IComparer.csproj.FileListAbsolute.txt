@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\bin\Debug\net6.0\Implementing iComparable and IComparer.exe
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\bin\Debug\net6.0\Implementing iComparable and IComparer.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\bin\Debug\net6.0\Implementing iComparable and IComparer.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\bin\Debug\net6.0\Implementing iComparable and IComparer.dll
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\bin\Debug\net6.0\Implementing iComparable and IComparer.pdb
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.dll
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\refint\Implementing iComparable and IComparer.dll
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.pdb
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\Implementing iComparable and IComparer.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Implementing iComparable and IComparer\obj\Debug\net6.0\ref\Implementing iComparable and IComparer.dll
