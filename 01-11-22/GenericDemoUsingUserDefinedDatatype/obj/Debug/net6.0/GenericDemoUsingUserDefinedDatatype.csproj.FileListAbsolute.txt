@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\bin\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.exe
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\bin\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.deps.json
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\bin\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\bin\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.dll
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\bin\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.pdb
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.dll
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\refint\GenericDemoUsingUserDefinedDatatype.dll
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.pdb
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemoUsingUserDefinedDatatype.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\ref\GenericDemoUsingUserDefinedDatatype.dll

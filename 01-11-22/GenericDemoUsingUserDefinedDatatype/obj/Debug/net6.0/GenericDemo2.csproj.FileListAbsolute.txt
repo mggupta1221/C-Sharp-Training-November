@@ -1,0 +1,5 @@
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemo2.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemo2.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemo2.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\GenericDemo2\obj\Debug\net6.0\GenericDemo2.csproj.CoreCompileInputs.cache
