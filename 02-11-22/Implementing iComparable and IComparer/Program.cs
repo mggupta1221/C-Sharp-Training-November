@@ -15,10 +15,7 @@ namespace Implementing_iComparable_and_IComparer
         }
     }
 }
-
-
 /* 
- 
  sorting the complex(User Defined) collections can be done by 4 type
 
 1.Using IComparable interface
@@ -84,6 +81,11 @@ namespace Implementing_iComparable_and_IComparer
         }
  
                
+The Generic List Collection Class in C# provides the following four Sort Methods.
 
+Sort(): This method is used to sort the elements in the entire Generic List using the default comparer.
+Sort(IComparer<T> comparer): This method is used to sort the elements in the entire Generic List using the specified comparer.
+Sort(Comparison<T> comparison): This method is used to sort the elements in the entire Generic List using the specified System.Comparison.
+Sort(int index, int count, IComparer<T> comparer): This method is used to sort the elements in a range of elements in a Generic List using the specified comparer.
  
  */

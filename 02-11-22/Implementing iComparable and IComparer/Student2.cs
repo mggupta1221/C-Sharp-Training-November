@@ -12,7 +12,10 @@ namespace Implementing_iComparable_and_IComparer
     {
         public int Compare(Student? x, Student? y)
         {
-            if (x.Grade > y.Grade)
+
+           // return x.Name.CompareTo(y.Name);
+
+            if (x. > y.Grade)
                 return 1;
             else if(x.Grade < y.Grade)  
                 return -1;
