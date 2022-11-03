@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\bin\Debug\net6.0\Extension Methods Project.exe
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\bin\Debug\net6.0\Extension Methods Project.deps.json
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\bin\Debug\net6.0\Extension Methods Project.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\bin\Debug\net6.0\Extension Methods Project.dll
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\bin\Debug\net6.0\Extension Methods Project.pdb
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.dll
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\refint\Extension Methods Project.dll
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.pdb
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\Extension Methods Project.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Extension Methods Project\Extension Methods Project\obj\Debug\net6.0\ref\Extension Methods Project.dll
