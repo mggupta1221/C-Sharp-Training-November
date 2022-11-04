@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\bin\Debug\net6.0\LINQSamples.exe
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\bin\Debug\net6.0\LINQSamples.deps.json
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\bin\Debug\net6.0\LINQSamples.runtimeconfig.json
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\bin\Debug\net6.0\LINQSamples.dll
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\bin\Debug\net6.0\LINQSamples.pdb
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.AssemblyInfo.cs
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.dll
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\refint\LINQSamples.dll
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.pdb
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\LINQSamples.genruntimeconfig.cache
+C:\Users\gupt_muk\Downloads\Module02\LINQSamples\obj\Debug\net6.0\ref\LINQSamples.dll
