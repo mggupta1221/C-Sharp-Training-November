@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\bin\Debug\net6.0\GameConsole.exe
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\bin\Debug\net6.0\GameConsole.deps.json
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\bin\Debug\net6.0\GameConsole.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\bin\Debug\net6.0\GameConsole.dll
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\bin\Debug\net6.0\GameConsole.pdb
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.dll
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\refint\GameConsole.dll
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.pdb
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\GameConsole.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\GameConsole\GameConsole\obj\Debug\net6.0\ref\GameConsole.dll
