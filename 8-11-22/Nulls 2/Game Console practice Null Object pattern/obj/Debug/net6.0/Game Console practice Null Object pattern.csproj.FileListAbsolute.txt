@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.AssemblyInfo.cs
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\bin\Debug\net6.0\Game Console practice Null Object pattern.exe
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\bin\Debug\net6.0\Game Console practice Null Object pattern.deps.json
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\bin\Debug\net6.0\Game Console practice Null Object pattern.runtimeconfig.json
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\bin\Debug\net6.0\Game Console practice Null Object pattern.dll
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\bin\Debug\net6.0\Game Console practice Null Object pattern.pdb
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.dll
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\refint\Game Console practice Null Object pattern.dll
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.pdb
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\Game Console practice Null Object pattern.genruntimeconfig.cache
+C:\Users\gupt_muk\Downloads\working-nulls-c-sharp\04\demos\after\01NoNullObjectPatternUsed\Game Console practice Null Object pattern\obj\Debug\net6.0\ref\Game Console practice Null Object pattern.dll
